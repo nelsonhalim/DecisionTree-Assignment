@@ -1,1 +1,1 @@
-Tutorial 1. Numpy, Pandas and Decision Tree
+A school assignment on Decision Trees
